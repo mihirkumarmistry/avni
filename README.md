@@ -70,6 +70,13 @@ Information Technology
 
 ---
 
+## 🖼️ Screenshots
+
+<img width="1914" height="909" alt="image" src="https://github.com/user-attachments/assets/29b9875b-f7e0-4682-a87b-78e7f0815f06" />
+
+
+---
+
 ## 🏢 Developed At
 
 [Kautilyam Infotech](https://kautilyam.com) – A IT solutions company specializing in software outsourcing development, web-based technologies, and customized solutions.
