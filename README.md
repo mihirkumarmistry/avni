@@ -72,7 +72,16 @@ Information Technology
 
 ## 🖼️ Screenshots
 
-<img width="1914" height="909" alt="image" src="/screenshots/login.png" />
+<table>
+  <tr>
+    <td><img width="957" height="455" alt="Login" src="/screenshots/login.png" /></td>
+    <td><img width="957" height="455" alt="Dashboard" src="/screenshots/master.png" /></td>
+  </tr>
+  <tr>
+    <td><img width="957" height="455" alt="Patients" src="/screenshots/dashboard.png" /></td>
+    <td><img width="957" height="455" alt="Appointments" src="/screenshots/generator.png" /></td>
+  </tr>
+</table>
 
 
 ---
